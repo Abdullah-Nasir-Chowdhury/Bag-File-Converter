@@ -13,6 +13,16 @@ A desktop application for converting and extracting data from RealSense .bag fil
 - Real-time progress monitoring with time estimation
 - Cancel ongoing conversions at any time
 
+## Usage
+
+Navigate:
+
+`app > dist > BagFileConverter.exe`
+
+and you are ready to use it. You might receive a false positive of the possibility of this being a virus. Ignore that. 
+
+# To Run the code 
+
 ## Requirements
 
 - Windows, macOS, or Linux
@@ -24,7 +34,7 @@ A desktop application for converting and extracting data from RealSense .bag fil
 
 1. Clone this repository:
    ```
-   git clone https://github.com/user/bag-file-converter.git
+   git clone https://github.com/Abdullah-Nasir-Chowdhury/Bag-File-Converter.git 
    cd bag-file-converter
    ```
 
@@ -33,7 +43,7 @@ A desktop application for converting and extracting data from RealSense .bag fil
    pip install -r requirements.txt
    ```
 
-3. Ensure you have the Intel RealSense SDK installed, which includes the `rs-convert.exe` utility.
+3. Ensure you have the Intel RealSense SDK installed, which includes the `rs-convert.exe` utility. I have add the rs-convert.exe file in the repository for convenience.
    - You can download it from the [Intel RealSense website](https://www.intelrealsense.com/sdk-2/)
 
 ## Usage
