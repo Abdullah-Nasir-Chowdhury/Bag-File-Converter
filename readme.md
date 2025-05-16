@@ -2,7 +2,7 @@
 
 A desktop application for converting and extracting data from RealSense .bag files with a simple graphical user interface.
 
-![Bag File Converter Screenshot](https://github.com/user/bag-file-converter/raw/main/screenshots/app_screenshot.png)
+![Bag File Converter Screenshot](https://github.com/Abdullah-Nasir-Chowdhury/Bag-File-Converter/blob/master/others/app-interface.png)
 
 ## Features
 
