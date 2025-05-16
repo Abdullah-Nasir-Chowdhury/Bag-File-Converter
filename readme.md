@@ -93,9 +93,9 @@ The application is built with PyQt5 and utilizes threading to keep the UI respon
 - `BagConverterApp`: Main application window and UI
 - `ConversionWorker`: Background worker thread that handles file conversion without freezing the UI
 
-## License
+<!-- ## License
 
-[MIT License](LICENSE)
+[MIT License](LICENSE) -->
 
 ## Contributing
 
